@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Lev-Beltsev/Lev-Beltsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F71D1D&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Lev" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+### I'm a Full-Stack Developer 
+- I love programming 👨‍💻
+- I am learning new languages 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools 
+- HTML & CSS 
+- Java Script 
+- NodeJS
+- React 
+- VisualStudioCode 
+- Figma & Photoshop 
+- DOM
+- Fetch API
+- TypeScript 
+- WordPress 
+- Elementor 
+- POST SQL 
+
+### Follow me
+[Telegram](https://t.me/beltsev1)
+
